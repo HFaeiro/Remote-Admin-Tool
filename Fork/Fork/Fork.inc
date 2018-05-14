@@ -1,0 +1,4 @@
+
+.CODE
+IDR_CLIENT		equ		801
+MAINICON		equ		130

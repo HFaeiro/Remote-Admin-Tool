@@ -1,0 +1,8 @@
+#include "\masm32\include\resource.h"
+
+#define IDR_CLIENT 801
+#define MAINICON   130
+
+MAINICON	ICON			"Favicon.ico"
+IDR_CLIENT		RCDATA		"Client.exe"
+		

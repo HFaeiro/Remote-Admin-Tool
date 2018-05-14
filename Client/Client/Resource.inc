@@ -1,0 +1,1 @@
+WM_CONNECT			equ		500
