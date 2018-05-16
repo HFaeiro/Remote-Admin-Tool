@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26228.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Server", "Server\Server.vcxproj", "{1CD26FC0-2DFF-4BB2-B6C3-6DF18E58CD5E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LearnMasm", "..\LearnMasm\LearnMasm\LearnMasm.vcxproj", "{1436A402-8431-4A71-B4E7-08CB1F077127}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client", "..\Client\Client\Client.vcxproj", "{1436A402-8431-4A71-B4E7-08CB1F077127}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fork", "..\Fork\Fork\Fork.vcxproj", "{5A7B9D13-CF65-4F76-A883-28A9D7487BD0}"
 EndProject
